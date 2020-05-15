@@ -1,3 +1,3 @@
-## Bootstrap Template
+### Bootstrap Template
 
-### Live Site : https://bootstrap-templ.netlify.app/
+Live Site : https://bootstrap-templ.netlify.app/
